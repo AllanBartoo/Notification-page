@@ -4,47 +4,47 @@
     "action": "reacted to your recent post",
     "post": "My first tournament today!",
     "time": "1m ago",
-    "img": "./src/assets/images/avatar-mark-webber.webp"
+    "img": "./images/avatar-mark-webber.webp"
   },
   {
     "user": "Angela Gray",
     "action": "followed you",
     "time": "5m ago",
-    "img": "./src/assets/images/avatar-angela-gray.webp"
+    "img": "./images/avatar-angela-gray.webp"
   },
   {
     "user": "Jacob Thompson",
     "action": "has joined your group",
     "group": "Chess Club",
     "time": "1 day ago",
-    "img": "./src/assets/images/avatar-jacob-thompson.webp"
+    "img": "./images/avatar-jacob-thompson.webp"
   },
   {
     "user": "Rizky Hasanuddin",
     "action": "sent you a private message",
     "time": "5 days ago",
     "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
-    "img": "./src/assets/images/avatar-rizky-hasanuddin.webp"
+    "img": "./images/avatar-rizky-hasanuddin.webp"
   },
   {
     "user": "Kimberly Smith",
     "action": "commented on your picture",
     "time": "1 week ago",
-    "img": "./src/assets/images/avatar-kimberly-smith.webp",
-    "img2": "./src/assets/images/image-chess.webp"
+    "img": "./images/avatar-kimberly-smith.webp",
+    "img2": "./images/image-chess.webp"
   },
   {
     "user": "Nathan Peterson",
     "action": "reacted to your recent post",
     "post": "5 end-game strategies to increase your win rate",
     "time": "2 weeks ago",
-    "img": "./src/assets/images/avatar-nathan-peterson.webp"
+    "img": "./images/avatar-nathan-peterson.webp"
   },
   {
     "user": "Anna Kim",
     "action": "left the group",
     "group": "Chess Club",
     "time": "2 weeks ago",
-    "img": "./src/assets/images/avatar-anna-kim.webp"
+    "img": "./images/avatar-anna-kim.webp"
   }
 ]
